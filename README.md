@@ -9,3 +9,6 @@ This repository contains references to notes, presentations and project solution
 - Smart Representations for Big Data Analytics - [Presentation] |  [Project](https://github.com/KDD-OpenSource/causal-inference-evaluation)
 - Machine Learning 2 - [Homework](https://github.com/WGierke/machine_learning_2)
 - Trends and Concepts 1 - [Presentation](https://goo.gl/7Uzmoy) | [Project](https://github.com/WGierke/tuk1_numa_a)
+
+### 2nd Semester: Winter Term 2017/18
+- Intelligent Data Analysis 2 - [Homework](https://github.com/WGierke/master_programme/tree/master/Intelligent_Data_Analysis_2) | [Presentation](https://docs.google.com/presentation/d/1LuHpHzKy6BUlQk6sJf8vLb3Z31c9GjNcrZMFmJklBV4/edit?usp=sharing)
