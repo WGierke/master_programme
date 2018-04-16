@@ -12,3 +12,7 @@ This repository contains references to notes, presentations and project solution
 
 ### 2nd Semester: Winter Term 2017/18
 - Intelligent Data Analysis 2 - [Homework](https://github.com/WGierke/master_programme/tree/master/Intelligent_Data_Analysis_2) | [Presentation](https://docs.google.com/presentation/d/1LuHpHzKy6BUlQk6sJf8vLb3Z31c9GjNcrZMFmJklBV4/edit?usp=sharing)
+- Machine Intelligence with Deep Learning - [Project](https://github.com/sleighsoft/genetic-gaming)
+- Graph Mining - [Project](https://github.com/WGierke/graph_mining) | [Report](https://github.com/WGierke/graph_mining/blob/master/report/Finding_Hidden_Communities_in_HackerNews.pdf)
+- Distributed Data Analytics - [Homework](https://github.com/WGierke/distributed_data_analytics)
+- Trends in Bioinformatics - [Project](https://github.com/WGierke/bicluster_gene_expressions) | [Presentation](https://goo.gl/r5NnDo) | [Report](https://github.com/WGierke/bicluster_gene_expressions/blob/master/report/report.pdf)
